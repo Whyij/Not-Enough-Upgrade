@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "not-enough-upgrade",
+	"version": "${version}",
+	"name": "Not Enough Upgrade",
+	"description": "'Everything' need upgrade! | Whyij's free mod",
+	"authors": [
+		"Whyij"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/not-enough-upgrade/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.whyij.neu.NotEnoughUpgrade"
+		],
+		"fabric-datagen": [
+			"com.whyij.neu.NotEnoughUpgradeDataGenerator"
+		],
+		"client": [
+			"com.whyij.neu.NotEnoughUpgradeClient"
+		]
+	},
+	"mixins": [
+		"not-enough-upgrade.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
