@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a64c0a-3b7c-40f7-b823-9442e71616b1" name="更改" comment="stp" />
+    <list default="true" id="f6a64c0a-3b7c-40f7-b823-9442e71616b1" name="更改" comment="stp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -61,6 +70,9 @@
     &quot;accountId&quot;: &quot;86820cf9-3643-4b90-bcfb-5e68c774e939&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -74,6 +86,7 @@
   "keyToString": {
     "Gradle.not-enough-upgrade-template-1.21.11 [:net.fabricmc.devlaunchinjector.Main.main()].executor": "Run",
     "Gradle.not-enough-upgrade-template-1.21.11 [genSources].executor": "Run",
+    "Gradle.下载源代码.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -96,6 +109,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.whyij.neu.datagen" />
     </key>
   </component>
   <component name="RunManager" selected="应用程序.Minecraft Client">
@@ -144,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772038373436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stp">
+      <option name="closed" value="true" />
+      <created>1772039030319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772039030319</updated>
+    </task>
+    <task id="LOCAL-00003" summary="stp">
+      <option name="closed" value="true" />
+      <created>1772039049653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772039049653</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
