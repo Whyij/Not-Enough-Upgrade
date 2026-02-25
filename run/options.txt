@@ -117,7 +117,7 @@ key_key.sneak:key.keyboard.left.shift
 key_key.sprint:key.keyboard.left.control
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.tab
-key_key.chat:key.keyboard.t
+key_key.chat:key.keyboard.enter
 key_key.playerlist:key.keyboard.grave.accent
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
@@ -166,7 +166,7 @@ key_key.debug.profilingChart:key.keyboard.1
 key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

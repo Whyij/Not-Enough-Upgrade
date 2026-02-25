@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a64c0a-3b7c-40f7-b823-9442e71616b1" name="更改" comment="" />
+    <list default="true" id="f6a64c0a-3b7c-40f7-b823-9442e71616b1" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2026-02-25-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2026-02-25-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/DIM-1/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/data/random_sequences.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/data/random_sequences.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/poi/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/poi/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/poi/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/poi/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/poi/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/whyij/neu/NotEnoughUpgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whyij/neu/NotEnoughUpgrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/whyij/neu/item/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whyij/neu/item/ModItems.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,26 +77,59 @@
       </state>
     </system>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Whyij&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Whyij/not-enough-upgrade.git&quot;,
+    &quot;accountId&quot;: &quot;86820cf9-3643-4b90-bcfb-5e68c774e939&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3A8AJjAkpSiqFqj87AWFJlXbBga" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.not-enough-upgrade-template-1.21.11 [:net.fabricmc.devlaunchinjector.Main.main()].executor": "Run",
     "Gradle.not-enough-upgrade-template-1.21.11 [genSources].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Whyij/Desktop/not-enough-upgrade-template-1.21.11/src/main/resources/data/minecraft/recipe",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.not-enough-upgrade-template-1.21.11 [genSources]">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft\recipe" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\not-enough-upgrade\loot_table\chests\village" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\not-enough-upgrade\recipes" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\assets\not-enough-upgrade\Items" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\assets\not-enough-upgrade\textures\item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Minecraft Client">
     <configuration name="not-enough-upgrade-template-1.21.11 [genSources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -104,5 +168,16 @@
       <updated>1771963755106</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
