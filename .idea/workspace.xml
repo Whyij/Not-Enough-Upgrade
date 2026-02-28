@@ -5,6 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6a64c0a-3b7c-40f7-b823-9442e71616b1" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/carrot_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/chest_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/copper_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/diamond_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/ender_eye_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/gold_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/hopper_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/iron_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/lantern_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/mace_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/recovery_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/soul_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/stone_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/tnt_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/upgrade_smithing_template_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/upgrade_smithing_template_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/warped_fungus_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/not-enough-upgrade/textures/item/writable_upgrade_smithing_template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/ancient_city.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/stronghold_corridor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/trial_chambers/corridor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/trial_chambers/intersection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/trial_chambers/intersection_barrel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/trial_chambers/supply.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_armorer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_butcher.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_cartographer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_mason.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_shepherd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_toolsmith.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/village/village_weaponsmith.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/loot_table/chests/woodland_mansion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_axe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_helmet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_hoe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_pickaxe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_spear.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/diamond_sword.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_axe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_boots.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_chestplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_helmet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_hoe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_leggings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_pickaxe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_spear.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/minecraft/recipe/iron_sword.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
@@ -13,6 +65,7 @@
       <change beforePath="$PROJECT_DIR$/run/saves/test/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/DIM-1/data/raids.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/DIM1/data/raids_end.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/data/random_sequences.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/data/random_sequences.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.-1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/entities/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/entities/r.0.-1.mca" afterDir="false" />
@@ -26,7 +79,9 @@
       <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.-1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/test/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/test/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/whyij/neu/item/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whyij/neu/item/ModItems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +169,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Whyij/Desktop/not-enough-upgrade-template-1.21.11/src/main/resources/data/minecraft/recipe",
+    "last_opened_file_path": "C:/Users/Whyij/Desktop/not-enough-upgrade-template-1.21.11/src/main/resources/data/minecraft/loot_table/chests",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -123,13 +178,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft\loot_table\chests" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft\loot_table\chests\trial_chambers" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft\loot_table\chests\village" />
       <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft\recipe" />
-      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\not-enough-upgrade\loot_table\chests\village" />
-      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\not-enough-upgrade\recipes" />
-      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\assets\not-enough-upgrade\Items" />
-      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\assets\not-enough-upgrade\textures\item" />
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft\loot_table" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\assets\not-enough-upgrade\textures\item" />
       <recent name="C:\Users\Whyij\Desktop\not-enough-upgrade-template-1.21.11\src\main\resources\data\minecraft" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -229,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772045072431</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <option name="closed" value="true" />
+      <created>1772053044176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772053044176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +301,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
