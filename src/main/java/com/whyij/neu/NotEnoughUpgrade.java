@@ -1,6 +1,7 @@
 package com.whyij.neu;
 
 import com.whyij.neu.item.ModItems;
+import com.whyij.neu.util.ModCustomTrades;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -21,6 +22,7 @@ public class NotEnoughUpgrade implements ModInitializer {
 		// Proceed with mild caution.
 
 		ModItems.registerModItems();
+		ModCustomTrades.registerModCustomTrades();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
